@@ -1,0 +1,12 @@
+
+// Basic concepts
+
+git init : initialisation 
+git add : working area---> staging area
+git reset : staging area ---> working directory 
+git commit : staging area ----> local repository
+git push : local--> remote   // upload 
+git pull : remote ---> local  // download
+
+
+i want to cancel the commit i use the id exp 100644
